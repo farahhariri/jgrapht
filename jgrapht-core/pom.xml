@@ -5,6 +5,8 @@
 		<groupId>org.jgrapht</groupId>
 		<artifactId>jgrapht</artifactId>
 		<version>0.9.1-SNAPSHOT</version>
+		
+		
 	</parent>
 	<artifactId>jgrapht-core</artifactId>
 	<name>JGraphT - Core</name>
