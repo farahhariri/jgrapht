@@ -9,8 +9,6 @@
 		
 	</parent>
 	
-	
-	
 	<artifactId>jgrapht-core</artifactId>
 	<name>JGraphT - Core</name>
 	<licenses>
